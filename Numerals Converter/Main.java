@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//test change of details
+
 class FractionalNumber {
     private final String literals = "0123456789abcdefghijklmnopqrstuvwxyz";
     private final int integer;
